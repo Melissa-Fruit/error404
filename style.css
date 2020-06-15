@@ -1,0 +1,28 @@
+body{
+background-image: url(chat.jpg);
+background-size: cover;
+}
+h1, h2, p{
+text-align: center;
+}
+h1, h2{
+font-size: 80px;
+text-shadow: -1px 0 white, 0 1px white,
+      1px 0 white, 0 -3px white;
+}
+p{
+  font-weight: bold;
+  font-size: 20px;
+}
+div {
+  height: 200px;
+  width: 50%;
+  background-color: inherit;
+}
+p{
+  text-shadow: -1px 0 white, 0 1px white,
+        1px 0 white, 0 -1px white;
+}
+#photo{
+  font-size: 10px;
+}
